@@ -1,6 +1,12 @@
 # Insert_URL
 
-##Motivation for This Project
+
+https://user-images.githubusercontent.com/87344382/142990950-7915c3b6-5448-4bbd-8eb6-d77c952501f4.mov
+
+Test of How the Script Works
+
+
+<h2>Motivation for This Project</h2>
 
 I was growing increasingly tired of having to navigating directories to find my website pages to add a new link 
 that directs vistors to a new project mine. 
@@ -20,7 +26,7 @@ However, it can readily be modified for your needs.
 I hope this project shows how even the simplest lines of code can help automate tasks that could be eating 
 your motivation for programming. 
 
-##Future Improvements
+<h2>Future Improvements</h2>
 
 - I need to determine a way to just append a line directly below another file
   line since currently my program adds a new line, but in order for that line
